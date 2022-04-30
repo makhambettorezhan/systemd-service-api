@@ -1,0 +1,7 @@
+[Unit]
+Description=API server
+
+[Service]
+Alias=api.service
+ExecStart=/tmp/api
+
